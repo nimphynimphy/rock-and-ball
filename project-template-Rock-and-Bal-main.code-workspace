@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\C24-TA-V4--main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project-template-Rock-and-Bal-main"
+	}
+}
